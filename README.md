@@ -10,12 +10,13 @@ I don't want to waste your time introducing myself. So, the following is a brief
 
 ## Courses
 
-The following repoitories represent my learning journey in varoius fileds:
+The following repositories represent my learning journey in varoius fileds:
 
 ### Machine Learning Courses
 
 - [Machine Learning Specialization](https://github.com/Anwarvic/Machine-Learning-Specialization--Washington-University) provided by Washington University on Coursera.
-- [Mathematics for Machine Learning](https://github.com/Anwarvic/Mathematics-for-Machine-Learning-Specialization) provided by on Coursera.
+- [Mathematics for Machine Learning Specialization](https://github.com/Anwarvic/Mathematics-for-Machine-Learning-Specialization) provided by on Coursera.
+- [Introduction to Machine Learning](https://github.com/Anwarvic/Intro-to-Machine-Learning--Udacity) free course on Udacity.
 
 ### Deep Learning Courses
 
@@ -28,13 +29,21 @@ The following repoitories represent my learning journey in varoius fileds:
 
 - [Introduction to NLP](https://github.com/Anwarvic/Dan-Jurafsky--Chris-Manning--Natural-Language-Processing) course made by Prof. Danial Jurafsky and Prof. Christopher Manning of Stanford University.
 - [NLP with Deep Learning](https://github.com/Anwarvic/Stanford_CS224n--NLP-with-Deep-Learning) course made by Prof. Christopher Manning and Dr. Richard Socher of Stanford University.
-- [Natural Language Understanding](https://github.com/Anwarvic/Stanford_CS224u--NLU-Solution-2019) course made by Prof. Bill MacCartney and Prof.Christopher Potts of Stanford University
+- [Natural Language Understanding](https://github.com/Anwarvic/Stanford_CS224u--NLU-Solution-2019) course made by Prof. Bill MacCartney and Prof.Christopher Potts of Stanford University.
+- [Natural Language Process](https://github.com/Anwarvic/COMS_W4705--Natural-Language-Processing) course made by Prof.Michael Collins of Columbia University
 
 ### Mathematics
 
 - [Calculus One](https://github.com/Anwarvic/Calculus-One--Coursera) course provided by Ohio State University on Coursera. This courser is considered one of the best 50 Moocs ever created.
 - [Calculus Two](https://github.com/Anwarvic/Calculus-Two--Coursera) course provided by Ohio State University on Coursera.
-- 
+- [Intro to Inferential Statistics](https://github.com/Anwarvic/Intro-to-Inferential-Statistics--Udacity) course made by Udacity.
+- [Intro to Descriptive Statistics](https://github.com/Anwarvic/Intro-to-Descriptive-Statistics--Udacity) course made by Udacity.
+
+### Data Sciece
+
+- [Data Wrangling with MongoDB](https://github.com/Anwarvic/Data-Wrangling-with-MongoDB--Udacity) course on Udacity.
+- [Data Analyst Nanodegree](https://github.com/Anwarvic/Data-Analyst-Track--One_Million_Arab_Coders--Udacity) on Udacity. This was part of the "One million Arab coder" program held in 2018.
+- [Data Science Specialization](https://github.com/Anwarvic/Data-Science-Specialization--Coursera) made by John Hopkins University on coursera.
 
 
 ## Personal Projects
