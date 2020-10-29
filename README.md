@@ -26,6 +26,8 @@ My name is "Mohamed Anwar", call me "Anwar".
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=anwarvic&show_icons=true&theme=vue" alt="Anwarvic's github stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarvic&layout=compact&theme=vue" style="padding: 15px" />
+    <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=anwarvic&margin-w=15" />
 </p>
 <br><br>
 
