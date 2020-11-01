@@ -1,4 +1,4 @@
-# Hi there, <img src="assets/hi.gif" width="30px">
+# Hi there, <img src="assets/hi.gif" width="40px">
 
 My name is "Mohamed Anwar", call me "Anwar".
 
