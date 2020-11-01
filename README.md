@@ -1,4 +1,4 @@
-# Hi there, 👋
+# Hi there, <img src="assets/hi.gif" width="30px">
 
 My name is "Mohamed Anwar", call me "Anwar".
 
