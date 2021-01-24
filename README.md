@@ -1,8 +1,8 @@
 # Hi there, <img src="assets/hi.gif" width="40px">
 
-My name is "Mohamed Anwar", call me "Anwar".
+My name is "Mohamed Anwar", please call me "Anwar".
 
-## Contacts
+## Online Presence
 
 <div align="center">
     <a href="mailto: mohamedanwarvic@gmail.com" style="text-decoration:None">
@@ -35,6 +35,14 @@ My name is "Mohamed Anwar", call me "Anwar".
 
 I work as an "R&D Software Engineer" and these repos document my journey in 
 different aspects of the field:
+
+## Python (PIP) Packages
+
+<div>
+    <a href="https://github.com/Anwarvic/extra-collections">
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarvic&repo=extra-collections&theme=vue" />
+    </a>
+</div>
 
 ## NLP
 
@@ -114,6 +122,6 @@ different aspects of the field:
     <a href="https://github.com/Anwarvic/Tashkeela-Model">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarvic&repo=Tashkeela-Model&theme=vue" />
     </a>
-</div
+</div>
 
 <br><br>
