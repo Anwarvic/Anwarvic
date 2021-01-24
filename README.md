@@ -43,6 +43,7 @@ different aspects of the field:
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarvic&repo=extra-collections&theme=vue" />
     </a>
 </div>
+<br><br>
 
 ## NLP
 
@@ -60,7 +61,6 @@ different aspects of the field:
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarvic&repo=COMS_W4705--NLP&theme=vue" />
     </a>
 </div>
-
 <br><br>
 
 ## Deep Learning
@@ -78,8 +78,7 @@ different aspects of the field:
     <a href="https://github.com/Anwarvic/Machine-Learning-Specialization">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarvic&repo=Machine-Learning-Specialization&theme=vue" />
     </a>
-</div
-
+</div>
 <br><br>
 
 ## Mathematics
@@ -100,16 +99,12 @@ different aspects of the field:
     <a href="https://github.com/Anwarvic/Intro-to-Descriptive-Statistics--Udacity">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarvic&repo=Intro-to-Descriptive-Statistics--Udacity&theme=vue" />
     </a>
-</div
-
+</div>
 <br><br>
 
 ## Personal Projects
 
 <div>
-    <a href="https://github.com/Anwarvic/extra-collections">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarvic&repo=extra-collections&theme=vue" />
-    </a>
     <a href="https://github.com/Anwarvic/Speaker-Recognition">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarvic&repo=Speaker-Recognition&theme=vue" />
     </a>
@@ -123,5 +118,4 @@ different aspects of the field:
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarvic&repo=Tashkeela-Model&theme=vue" />
     </a>
 </div>
-
 <br><br>
