@@ -28,6 +28,8 @@ My name is "Mohamed Anwar", please call me "Anwar".
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarvic&layout=compact&theme=vue" style="padding: 15px" />
     <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=anwarvic&margin-w=15" />
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarvic&" alt="anwarvic" />
 </p>
 <br><br>
 
