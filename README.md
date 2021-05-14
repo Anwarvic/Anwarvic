@@ -17,6 +17,9 @@ My name is "Mohamed Anwar", please call me "Anwar".
     <a href="https://www.hackerrank.com/anwarvic" style="text-decoration:None">
         <img alt="anwarvic | HackerRank" width="40px" style="margin-right:20px" src="assets/hackerrank.svg" />
     </a>
+    <a href="https://leetcode.com/anwarvic" style="text-decoration:None">
+        <img alt="anwarvic | LeetCode" width="40px" style="margin-right:20px" src="assets/leetcode.png" />
+    </a>
 </div>
 <br><br>
 
