@@ -24,15 +24,17 @@ My name is "Mohamed Anwar", please call me "Anwar".
 <br><br>
 
 
-## GitHub Summary
 
+<h2>My GitHub Stats</h2>
+          
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=anwarvic&show_icons=true&theme=radical" alt="Anwarvic's github stats">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=anwarvic&show_icons=true&theme=radical" alt="Anwarvic's github stats"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarvic&layout=compact&theme=radical" style="padding: 15px" />
     <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=anwarvic&theme=radical" />
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarvic&theme=radical" alt="anwarvic" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=anwarvic&theme=react-dark" />
 </p>
 <br><br>
 
@@ -45,7 +47,7 @@ different aspects of the field:
 
 <div>
     <a href="https://github.com/Anwarvic/extra-collections">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarvic&repo=extra-collections&theme=radical" />
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=anwarvic&repo=extra-collections&theme=radical&custom_title=Anwarvic" />
     </a>
 </div>
 <br><br>
