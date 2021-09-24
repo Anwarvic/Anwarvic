@@ -2,6 +2,9 @@
 
 My name is "Mohamed Anwar", please call me "Anwar".
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Online Presence
 
 <div align="center">
