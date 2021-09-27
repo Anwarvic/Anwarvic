@@ -18,10 +18,10 @@ My name is "Mohamed Anwar", please call me "Anwar".
 Monday       111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
 Tuesday      125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
 Wednesday    121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
-Thursday     131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
-Friday       181 commits    █████░░░░░░░░░░░░░░░░░░░░   21.07% 
+Thursday     130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
+Friday       179 commits    █████░░░░░░░░░░░░░░░░░░░░   20.84% 
 Saturday     84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
-Sunday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.34%
+Sunday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.69%
 
 ```
 
@@ -35,7 +35,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/09/2021
+ Last Updated on 27/09/2021
 <!--END_SECTION:waka-->
 
 ## Online Presence
