@@ -2,44 +2,6 @@
 
 My name is "Mohamed Anwar", please call me "Anwar".
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    144 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
-🌆 Daytime    300 commits    ████████░░░░░░░░░░░░░░░░░   34.92% 
-🌃 Evening    315 commits    █████████░░░░░░░░░░░░░░░░   36.67% 
-🌙 Night      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.64%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
-Tuesday      125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Wednesday    121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
-Thursday     130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
-Friday       179 commits    █████░░░░░░░░░░░░░░░░░░░░   20.84% 
-Saturday     84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
-Sunday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.69%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 27/09/2021
-<!--END_SECTION:waka-->
-
-## Online Presence
-
 <div align="center">
     <a href="mailto: mohamedanwarvic@gmail.com" style="text-decoration:None">
         <img alt="anwarvic | Gmail" width="50px" style="margin-right:20px" src="assets/gmail_2020.svg" />
@@ -50,7 +12,7 @@ No Activity Tracked This Week
     <a href="https://stackoverflow.com/users/5612363/anwarvic" style="text-decoration:None">
         <img alt="anwarvic | Stackoverflow" width="40px" style="margin-right:20px" src="assets/stack-overflow.svg" />
     </a>
-    <a href="https://www.hackerrank.com/anwarvic" style="text-decoration:None">
+    <a href="https://www.hackerrank.com/anwarvic" style="texts-decoration:None">
         <img alt="anwarvic | HackerRank" width="40px" style="margin-right:20px" src="assets/hackerrank.svg" />
     </a>
     <a href="https://leetcode.com/anwarvic" style="text-decoration:None">
@@ -59,18 +21,24 @@ No Activity Tracked This Week
 </div>
 <br><br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+## GitHub Contribution:
 
-<h2>My GitHub Stats</h2>
-          
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarvic&theme=radical" alt="anwarvic" />
+    <br><br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=anwarvic&theme=react-dark" />
+</div>
+
 <p align="center">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=anwarvic&show_icons=true&theme=radical" alt="Anwarvic's github stats"> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarvic&layout=compact&theme=radical" style="padding: 15px" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarvic&layout=compact&theme=radical" style="padding: 15px" /> -->
     <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=anwarvic&theme=radical" />
     <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarvic&theme=radical" alt="anwarvic" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=anwarvic&theme=react-dark" />
+    
 </p>
 <br><br>
 
