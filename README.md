@@ -49,12 +49,12 @@ Sunday       111 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 20 mins       █████████████████████████   100.0%
+Markdown                 2 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/10/2021
+ Last Updated on 24/10/2021
 <!--END_SECTION:waka-->
 
 ## GitHub Contribution:
