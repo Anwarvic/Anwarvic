@@ -6,15 +6,19 @@ My name is "Mohamed Anwar", please call me "Anwar".
     <a href="mailto: mohamedanwarvic@gmail.com" style="text-decoration:None">
         <img alt="anwarvic | Gmail" width="50px" style="margin-right:20px" src="assets/gmail_2020.svg" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/Anwarvic" style="text-decoration:None">
         <img alt="anwarvic | LinkedIn" width="40px" style="margin-right:20px" src="assets/linkedin.svg" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/5612363/anwarvic" style="text-decoration:None">
         <img alt="anwarvic | Stackoverflow" width="40px" style="margin-right:20px" src="assets/stack-overflow.svg" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/anwarvic" style="texts-decoration:None">
         <img alt="anwarvic | HackerRank" width="40px" style="margin-right:20px" src="assets/hackerrank.svg" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://leetcode.com/anwarvic" style="text-decoration:None">
         <img alt="anwarvic | LeetCode" width="40px" style="margin-right:20px" src="assets/leetcode.png" />
     </a>
@@ -22,43 +26,6 @@ My name is "Mohamed Anwar", please call me "Anwar".
 <br><br>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
-🌆 Daytime    240 commits    ███████░░░░░░░░░░░░░░░░░░   28.57% 
-🌃 Evening    366 commits    ███████████░░░░░░░░░░░░░░   43.57% 
-🌙 Night      113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
-Tuesday      113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
-Wednesday    130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
-Thursday     123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
-Friday       181 commits    █████░░░░░░░░░░░░░░░░░░░░   21.55% 
-Saturday     83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
-Sunday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.26%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-HTML                     2 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.95% 
-Markdown                 2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.46% 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.03% 
-SCSS                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75%
-
-```
-
-
- Last Updated on 17/12/2021
 <!--END_SECTION:waka-->
 
 ## GitHub Contribution:
