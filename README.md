@@ -30,7 +30,7 @@ My name is "Mohamed Anwar", please call me "Anwar".
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2019%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -64,7 +64,7 @@ Git Config               0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/08/2023 01:16:53 UTC
+ Last Updated on 01/09/2023 01:22:21 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Contribution:
