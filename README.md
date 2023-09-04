@@ -30,7 +30,7 @@ My name is "Mohamed Anwar", please call me "Anwar".
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2043%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -57,13 +57,13 @@ Sunday                   3141 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 2 mins        ███████████████████████░░   93.64 % 
-Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 6 hrs 22 mins       ████████████████████████░   94.90 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 
- Last Updated on 02/09/2023 01:14:25 UTC
+ Last Updated on 04/09/2023 01:17:15 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Contribution:
