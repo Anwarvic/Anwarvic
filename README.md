@@ -30,6 +30,8 @@ My name is "Mohamed Anwar", please call me "Anwar".
 <br><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%201%20min-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -59,7 +61,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/11/2023 01:21:24 UTC
+ Last Updated on 24/11/2023 01:20:17 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Contribution:
