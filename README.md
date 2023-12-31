@@ -30,38 +30,6 @@ My name is "Mohamed Anwar", please call me "Anwar".
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%201%20min-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2763 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-🌆 Daytime                11954 commits       █████████████░░░░░░░░░░░░   53.54 % 
-🌃 Evening                5054 commits        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-🌙 Night                  2555 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3469 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Tuesday                  2998 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Wednesday                3371 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Thursday                 3740 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Friday                   2667 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Saturday                 2941 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Sunday                   3140 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 31/12/2023 01:25:35 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Contribution:
@@ -69,7 +37,7 @@ No Activity Tracked This Week
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwarvic&theme=radical" alt="anwarvic" />
     <br><br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=anwarvic&theme=react-dark" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwarvic&theme=react-dark" />
 </div>
 
 <p align="center">
