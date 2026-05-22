@@ -30,26 +30,24 @@ My name is "Mohamed Anwar", please call me "Anwar".
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2016%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3095 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-🌆 Daytime                12684 commits       █████████████░░░░░░░░░░░░   53.91 % 
-🌃 Evening                5198 commits        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-🌙 Night                  2552 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+🌞 Morning                3102 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+🌆 Daytime                12696 commits       █████████████░░░░░░░░░░░░   53.91 % 
+🌃 Evening                5201 commits        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+🌙 Night                  2552 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   3710 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Tuesday                  3127 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Wednesday                3526 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Thursday                 4179 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Friday                   2817 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Saturday                 2959 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Sunday                   3211 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Monday                   3715 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Tuesday                  3129 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Wednesday                3533 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Thursday                 4182 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Friday                   2818 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Saturday                 2961 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Sunday                   3213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 
 
@@ -61,7 +59,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/05/2026 01:15:33 UTC
+ Last Updated on 22/05/2026 01:14:38 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Contribution:
