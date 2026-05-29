@@ -30,38 +30,8 @@ My name is "Mohamed Anwar", please call me "Anwar".
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2016%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3102 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-🌆 Daytime                12703 commits       █████████████░░░░░░░░░░░░   53.92 % 
-🌃 Evening                5201 commits        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-🌙 Night                  2552 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3715 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Tuesday                  3136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Wednesday                3533 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Thursday                 4182 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Friday                   2818 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Saturday                 2961 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Sunday                   3213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 28/05/2026 01:08:56 UTC
+ Last Updated on 29/05/2026 01:19:57 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Contribution:
